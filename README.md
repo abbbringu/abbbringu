@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D4E16AQHN4wnzprkxhw/profile-displaybackgroundimage-shrink_350_1400/0/1669310444641?e=1675296000&v=beta&t=ALtAKjGvHS-9_lGBPJS6GHkQyuiGTQMXRYz_wpRDR_M)](https://github.com/abbbringu)
+[![MasterHead](./temp.png)](https://github.com/abbbringu)
 <h1 align="center">Hello! 👋 I'm Brian</h1>
 <h3 align="center">A CS student at Chalmers University in Sweden</h3>
 <h3 align="left">Summary</h3>
