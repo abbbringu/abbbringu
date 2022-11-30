@@ -3,7 +3,7 @@
 <h3 align="center">A CS student at Chalmers University in Sweden</h3>
 <h3 align="left">Summary</h3>
 <p align = "left"> <a>
-I'm currently studying to become an engineer. In my free time, if I'm not with catching up with the internet, I like to sing, cook food and develop. I've been programming since High school, making IoT devices and applications. That's when I found the joy of programming and designing. Ever since, I've stuck with programming, learning different concepts such as functional-, objectorientedprogramming etc. I'm currently learning ios development and learning swift.
+I'm currently studying to become an engineer. In my free time, if I'm not with catching up with the internet, I like to sing, cook food and develop. I've been programming since High school, making IoT devices and applications. That's when I found the joy of programming and designing. Ever since, I've stuck with programming, learning different concepts such as functional-, objectorientedprogramming, datastructures etc. I'm currently learning iOS development and learning swiftUI.
 </a>
 </p>
 
