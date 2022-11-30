@@ -7,7 +7,7 @@ I'm currently studying to become an engineer. In my free time, if I'm not with c
 </a>
 </p>
 
-- 🔭 I’m currently working on **ios-recipe-app**
+- 🔭 I’m currently working on **LearningApp-iOS-SwiftUI**
 
 - 🌱 I’m currently learning **Swift and ios development**
 
