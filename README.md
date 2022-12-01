@@ -9,7 +9,7 @@ I'm currently studying to become an engineer. In my free time, if I'm not with c
 
 - 🔭 I’m currently working on **LearningApp-iOS-SwiftUI**
 
-- 🌱 I’m currently learning **Swift and ios development**
+- 🌱 I’m currently learning **Swift and iOS development**
 
 - ⚡ Fun fact **I like to play guitar and sing!**
 
