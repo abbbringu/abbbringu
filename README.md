@@ -7,9 +7,9 @@ I'm currently studying to become an engineer. In my free time, if I'm not with c
 </a>
 </p>
 
-- 🔭 I’m currently working on **LearningApp-iOS-SwiftUI**
+- 🔭 I’m currently working on **Fullstackopen**
 
-- 🌱 I’m currently learning **Swift and iOS development**
+- 🌱 I’m currently learning **Fullstack development with react** and **concurrent programming**
 
 - ⚡ Fun fact **I like to play guitar and sing!**
 
