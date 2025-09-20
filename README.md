@@ -1,4 +1,4 @@
-[![MasterHead](./linkedin.png)](https://github.com/abbbringu)
+[![MasterHead](./banner_ln2.png)](https://github.com/abbbringu)
 <h1 align="center">Hello! 👋 I'm Brian</h1>
 <h3 align="center">A CS student at Chalmers University in Sweden</h3>
 <h3 align="left">Summary</h3>
